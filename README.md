@@ -1,13 +1,10 @@
-### Hi there 👋
 
-<!--
-**laraalmeidalara/laraalmeidalara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Bio da lala##
 
-Here are some ideas to get you started:
 
 - 🔭 moldando meu futuro
 - 🌱 vivendo e aprendendo
-- 👯 
+- 👯 linda e cheirosa
 - 🤔 gosto de estar aprendendo de tudo
 - 💬 sempre estou disposta a ajudar ;)
 - 📫 @laravitoriadealmeida
