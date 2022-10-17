@@ -3,10 +3,10 @@
 
 
 - 🔭 moldando meu futuro
-- 🌱 vivendo e aprendendo
+- 🌱 futura biomedica
 - 👯 linda e cheirosa
 - 🤔 gosto de estar aprendendo de tudo
-- 💬 sempre estou disposta a ajudar ;)
+- 💬 chique e elegante
 - 📫 @laravitoriadealmeida
 - 😄 ela/dela
 - ⚡ viciada em bala halls
